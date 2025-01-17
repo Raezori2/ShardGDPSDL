@@ -108,6 +108,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        Easy and Medium demons will only require a screenshot, anything above will require a video
+                    </p>
+                    <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
