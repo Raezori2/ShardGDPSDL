@@ -6,12 +6,5 @@
     "verifier": "Zestii",
     "verification": "",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
-        }
-    ]
+    "records": []
 }
