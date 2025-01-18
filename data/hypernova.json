@@ -1,0 +1,17 @@
+{
+    "id": 99,
+    "name": "Hypernova",
+    "author": "CirnoTheUwU",
+    "creators": [],
+    "verifier": "CirnoTheUwU",
+    "verification": "https://youtu.be/Bsr0Sq28DKw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/Bsr0Sq28DKw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
