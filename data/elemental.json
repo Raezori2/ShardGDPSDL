@@ -1,0 +1,17 @@
+{
+    "id": 98,
+    "name": "Elemental",
+    "author": "CirnoTheUwU",
+    "creators": [],
+    "verifier": "CirnoTheUwU",
+    "verification": "https://youtu.be/AM4NGDeGVPE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/AM4NGDeGVPE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
