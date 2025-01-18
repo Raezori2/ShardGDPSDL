@@ -1,0 +1,25 @@
+{
+    "id": 88,
+    "name": "DEMENTIA",
+    "author": "ratnoises",
+    "creators": [],
+    "verifier": "ratnoises",
+    "verification": "https://youtu.be/0rTDPJhSpFI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Exsavitator",
+            "link": "https://youtu.be/0rTDPJhSpFI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zestii",
+            "link": "https://media.discordapp.net/attachments/1301208138963484685/1329988884653936711/image.png?ex=678c582c&is=678b06ac&hm=7f327e1717fd95786530f7772ff0a99474fad6cc365117616f36308a555f8dad&=&format=webp&quality=lossless&width=550&height=309",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
+
+   
