@@ -1,0 +1,17 @@
+{
+    "id": 127,
+    "name": "Choirpunk",
+    "author": "Exsavitator",
+    "creators": [],
+    "verifier": "Exsavitator",
+    "verification": "https://youtu.be/z4H3dWSASi4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/pkfeW9FYUfk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
