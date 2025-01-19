@@ -6,5 +6,12 @@
     "verifier": "Rae",
     "verification": "https://youtu.be/fcADtX3ndbM?si=idrdrLOhFBwGvmx9",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zestii",
+            "link": "https://www.youtube.com/watch?v=H_OUg_2kbgo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
