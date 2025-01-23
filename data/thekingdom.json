@@ -6,5 +6,12 @@
     "verifier": "Rae",
     "verification": "https://youtu.be/X43_-JjCWlA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Zestii",
+            "link": "https://media.discordapp.net/attachments/1310235025815633921/1331566568177532971/image.png?ex=67936701&is=67921581&hm=75358729d7373b16ad87595a4d3ea1fbfea4305b64b81f1528a86ed57a767e44&=&format=webp&quality=lossless&width=1193&height=671",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
