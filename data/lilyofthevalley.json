@@ -1,0 +1,17 @@
+{
+    "id": 144,
+    "name": "lily of the valley",
+    "author": "Exsavitator",
+    "creators": [],
+    "verifier": "Exsavitator",
+    "verification": "https://youtu.be/KBYJZQ9Py-8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/26IKnVXNQjc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
