@@ -1,0 +1,17 @@
+{
+    "id": 146,
+    "name": "super hell heck",
+    "author": "NoInternet",
+    "creators": [],
+    "verifier": "NoInternet",
+    "verification": "https://youtu.be/Aq00M9_CX9Q?si=W3hPJ7VFA-5gfw_0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/m8Gpz3cuhcY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
