@@ -1,0 +1,17 @@
+{
+    "id": 145,
+    "name": "yellow and purple v2",
+    "author": "NoInternet",
+    "creators": [],
+    "verifier": "NoInternet",
+    "verification": "https://youtu.be/Lg5YwO_9as8?si=1e9oMaaK6YSP4ZiX",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/hozeSbdY6d4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
