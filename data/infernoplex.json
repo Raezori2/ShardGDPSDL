@@ -1,0 +1,17 @@
+{
+    "id": 151,
+    "name": "infernoplex",
+    "author": "HexagonLord",
+    "creators": [],
+    "verifier": "HexagonLord",
+    "verification": "https://youtu.be/aIlemwlow-8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/aIlemwlow-8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
