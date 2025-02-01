@@ -1,0 +1,23 @@
+{
+    "id": 153,
+    "name": "Grateful",
+    "author": "Catty",
+    "creators": [],
+    "verifier": "Catty",
+    "verification": "https://www.youtube.com/watch?v=LSPYd4woVBs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/k-XzWmGpET8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Zestii",
+            "link": "https://youtu.be/rVlrelU0OBs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
