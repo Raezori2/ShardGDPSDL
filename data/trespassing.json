@@ -6,5 +6,12 @@
     "verifier": "Exsavitator",
     "verification": "https://youtu.be/7JrU7sir8nE",
     "percentToQualify": 60,
-    "records": []
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/Ki8yZEhyj4s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
