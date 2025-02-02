@@ -1,0 +1,17 @@
+{
+    "id": 162,
+    "name": "Slap Squad",
+    "author": "RedAmitieGD",
+    "creators": [],
+    "verifier": "RedAmitieGD",
+    "verification": "https://youtu.be/tFEKExJm84w",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/tFEKExJm84w",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
