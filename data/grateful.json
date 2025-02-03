@@ -1,8 +1,8 @@
 {
     "id": 153,
     "name": "Grateful",
-    "author": "Catty",
-    "creators": [],
+    "author": "TheShadowRealm",
+    "creators": ["Catty"],
     "verifier": "Catty",
     "verification": "https://www.youtube.com/watch?v=LSPYd4woVBs",
     "percentToQualify": 100,
