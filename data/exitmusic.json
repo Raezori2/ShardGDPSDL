@@ -12,6 +12,12 @@
             "link": "https://media.discordapp.net/attachments/1310235025815633921/1336004459767005234/image.png?ex=67a23a9c&is=67a0e91c&hm=969f4ac31c7801e46ff133e0ca66ff5832e3ff14f9dff6a15484d92876cc23fe&=&format=webp&quality=lossless&width=1193&height=671",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "noctilia",
+            "link": "https://cdn.discordapp.com/attachments/1310235025815633921/1336349677066391636/image.png?ex=67a37c1f&is=67a22a9f&hm=c86c4db5a28ad6793671751a8265dab403012cf29a70c36e31ed14dc8b32f146&",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
