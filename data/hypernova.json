@@ -30,6 +30,11 @@
             "link": "https://youtu.be/comuItJ6lT4",
             "percent": 100,
             "hz": 165
+        },
+        {   "user": "noctilia",
+            "link": "https://media.discordapp.net/attachments/1310235025815633921/1336347949416054865/image.png?ex=67a37a83&is=67a22903&hm=89f6bf2e002bafcf3cd042776ad0d5ced713551249cef48d536a36d8697480db&=&format=webp&quality=lossless&width=1122&height=701",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
