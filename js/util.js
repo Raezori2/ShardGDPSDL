@@ -5,8 +5,9 @@ export function getYoutubeIdFromUrl(url) {
     )?.[1] ?? '';
 }
 
-export function embed(video) {
-    return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
+export function embed(link) {
+	
+    return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(link)}`;
 }
 
 export function localize(num) {
