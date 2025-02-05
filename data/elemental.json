@@ -42,6 +42,12 @@
             "link": "https://media.discordapp.net/attachments/1310235025815633921/1336010781891891241/image.png?ex=67a43ac0&is=67a2e940&hm=44f7ae20d3be83702594cbe486716dbf3b2f8c13f3620ad3881c44b7dafee500&=&format=webp&quality=lossless&width=1193&height=671",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "DashX",
+            "link": "https://cdn.discordapp.com/attachments/1310235025815633921/1336065525620412446/Edited_20250203_210424.mp4?ex=67a46dbc&is=67a31c3c&hm=3d9d71ed4b60de267602062179423d2b8381c330b34ef44e8201c9a9882d7c63&",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
