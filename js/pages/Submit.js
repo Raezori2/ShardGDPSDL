@@ -38,7 +38,7 @@ export default {
 					<input type="text" v-model="rawfootage" name="record-rawfootage" id="record-rawfootage" placeholder="eg. 'https://drive.google.com/file/d/.....'">
 	
 					<label for="record-holder">Note:<span class="asterisk">*</span></label>
-					<span class="sublabel">The player holding the record.</span>
+					<span class="sublabel">Any additonal notes for the record.</span>
 					<textarea name="record-notes" v-model="notes" id="record-notes" placeholder="Your dreams & hopes for this record... or something like that"></textarea>
 		
 					<button type="button" @click='sendWebhook()'>Submit record</button>
