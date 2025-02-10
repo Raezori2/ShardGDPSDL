@@ -25,6 +25,10 @@ export default {
 					<span class="sublabel">The player holding the record.</span>
 					<input type="text" v-model="holder" name="record-holder" id="record-holder" placeholder="Name of the record holder" required>
 		
+					<label for="record-fps">FPS:<span class="asterisk">*</span></label>
+					<span class="sublabel">The amount of frame per seconds used in the completion. Caps at 240 FPS, any values above will be rounded down to 240. If you are unsure about your FPS, check your ingame settings. If V-Sync was enabled, put your monitor's refresh rate.</span>
+					<input type="text" v-model="fps" name="record-fps" id="record-fps" placeholder="eg '240 FPS', '144hz',..." required>
+		
 					<label for="record-percentage-num">Percentage:<span class="asterisk">*</span></label>
 					<span class="sublabel">The percentage achieved in the record. Keep in mind only record above or equal to the level's qualification percentage will be accepted.</span>
 					<input type="number" min=0 max="100" v-model="percentage" name="record-percentage-num" id="record-percentage-num" placeholder="eg. '59%', '100', '99 percent'*" required>
@@ -61,6 +65,7 @@ export default {
 		sent: false,
 		level: 'Select level*',
 		holder: '',
+		fps: '',
 		footage: '',
 		rawfootage: '',
 		notes: '',
@@ -79,7 +84,7 @@ export default {
 
 	methods: {
 		sendWebhook() {
-			if (this.level === 'Select level*' || this.holder === '' || this.footage === '' || this.percentage < 0 || this.percentage > 100) {
+			if (this.level === 'Select level*' || this.holder === '' || this.fps === '' || this.footage === '' || this.percentage < 0 || this.percentage > 100) {
 				this.errortimes += 1
 				switch (this.errortimes) {
 					case 3:
@@ -151,6 +156,10 @@ export default {
 										value: this.holder,
 									},
 									{
+										name: 'FPS Used',
+										value: this.fps,
+									},
+									{
 										name: 'Percentage',
 										value: this.percentage,
 									},
@@ -178,6 +187,7 @@ export default {
 					}
 					this.level = 'Select level*'
 					this.holder = ''
+					this.fps = ''
 					this.footage = ''
 					this.rawfootage = ''
 					this.notes = ''
