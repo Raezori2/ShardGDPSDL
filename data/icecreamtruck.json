@@ -1,0 +1,17 @@
+{
+    "id": 196,
+    "name": "ice cream truck",
+    "author": "pea",
+    "creators": [],
+    "verifier": "pea",
+    "verification": "https://youtu.be/OcAOhtthmcI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/OcAOhtthmcI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
