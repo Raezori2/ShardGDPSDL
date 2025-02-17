@@ -6,5 +6,12 @@
     "verifier": "Kubix",
     "verification": "https://youtu.be/IttsuufhI3o",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://media.discordapp.net/attachments/1301428139909709894/1341000432537043045/20250217185639_1.jpg?ex=67b46779&is=67b315f9&hm=3857c5f8fc3e83107a1667a226b56f35b4dc9afe60e2b7011f1ae6367ef2de02&=&format=webp&width=1193&height=671",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
