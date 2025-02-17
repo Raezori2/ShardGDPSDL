@@ -6,5 +6,12 @@
     "verifier": "dashxx",
     "verification": "https://youtu.be/gFosUesftLk?si=WrKlYjLJoajk8jHc",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://media.discordapp.net/attachments/1301428139909709894/1341000432893431868/20250217185633_1.jpg?ex=67b46779&is=67b315f9&hm=cdf897a785c2c9842009c38e9677b2f63147dfd0bfc57d97d41e2d8479a9b0d4&=&format=webp&width=1193&height=671",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
