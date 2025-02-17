@@ -1,0 +1,17 @@
+{
+    "id": 214,
+    "name": "Convolution",
+    "author": "Kubix",
+    "creators": ["Kubix", "Skoe"],
+    "verifier": "Kubix",
+    "verification": "https://www.youtube.com/watch?v=qeIao5w5WGo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/edL3IQZ1ibo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
