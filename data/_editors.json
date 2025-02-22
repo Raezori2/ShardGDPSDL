@@ -8,5 +8,10 @@
         "role": "owner",
         "name": "Zestii",
         "link": "https://www.youtube.com/channel/UCNRkSr4QflHRFLT3GplyRdA"
+    },
+    {
+        "role": "dev",
+        "name": "doom",
+        "link": "https://www.youtube.com/@igndoom651/videos"
     }
 ]
