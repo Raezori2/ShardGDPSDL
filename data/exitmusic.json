@@ -18,6 +18,12 @@
             "link": "https://cdn.discordapp.com/attachments/1310235025815633921/1336349677066391636/image.png?ex=67a37c1f&is=67a22a9f&hm=c86c4db5a28ad6793671751a8265dab403012cf29a70c36e31ed14dc8b32f146&",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "leaf",
+            "link": "https://media.discordapp.net/attachments/1272825407246307358/1342648026942144532/Screenshot_2025-02-05_133910.png?ex=67ba65ea&is=67b9146a&hm=af434862e976bb36fdbf879df4b27df5ee764cb0a12b3674ab298bf6aae68ce4&=&format=webp&quality=lossless&width=876&height=670",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
