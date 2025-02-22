@@ -1,0 +1,17 @@
+{
+    "id": 224,
+    "name": "505",
+    "author": "Exsavitator",
+    "creators": ["marc", "Exsavitator"],
+    "verifier": "Exsavitator",
+    "verification": "https://youtu.be/8bKaDVA_2D4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/LjyaupqbLBw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
