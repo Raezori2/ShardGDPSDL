@@ -12,6 +12,12 @@
             "link": "https://youtu.be/tFEKExJm84w",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "leaf",
+            "link": "https://media.discordapp.net/attachments/1272825407246307358/1342647888748085309/Screenshot_2025-02-22_005622.png?ex=67ba65c9&is=67b91449&hm=bc984b0c89724bf0fdfd4047a6b45aaa7a27e838020e09b3e62ae9c461ce7169&=&format=webp&quality=lossless&width=1192&height=670",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
