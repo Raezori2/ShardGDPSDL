@@ -1,0 +1,17 @@
+{
+    "id": 225,
+    "name": "Check Out",
+    "author": "Zestii",
+    "creators": ["TriAngle"],
+    "verifier": "Zestii",
+    "verification": "https://www.youtube.com/watch?v=MmEMGWiCEWU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/RWqIClh-PaI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
