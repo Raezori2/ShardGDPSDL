@@ -12,6 +12,12 @@
             "link": "https://media.discordapp.net/attachments/1301428139909709894/1341000432537043045/20250217185639_1.jpg?ex=67b46779&is=67b315f9&hm=3857c5f8fc3e83107a1667a226b56f35b4dc9afe60e2b7011f1ae6367ef2de02&=&format=webp&width=1193&height=671",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "leaf",
+            "link": "https://media.discordapp.net/attachments/1272825407246307358/1342647993513541672/Screenshot_2025-02-13_022133.png?ex=67ba65e2&is=67b91462&hm=47136c6b7f5922b7117642f3b7867e42009dd27070f7b23d364deee2d10d8115&=&format=webp&quality=lossless&width=1193&height=670",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
