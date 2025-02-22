@@ -14,7 +14,7 @@ export async function fetchList() {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
-					console.log({...level, path, records: level.records.sort((a, b) => b.percent - a.percent,),})
+					// console.log({...level, path, records: level.records.sort((a, b) => b.percent - a.percent,),})
                     return [
                         {
                             ...level,
