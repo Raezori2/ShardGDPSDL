@@ -30,6 +30,12 @@
             "link": "https://media.discordapp.net/attachments/1272825407246307358/1342648027382419588/Screenshot_2025-02-05_144227.png?ex=67ba65ea&is=67b9146a&hm=4c6c8249b533be9dc449f6234ebf0eda57f586db1ebe0a04bcc0a56921e015f1&=&format=webp&quality=lossless&width=1207&height=670",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Exsavitator",
+            "link": "https://cdn.discordapp.com/attachments/1301428139909709894/1343194886882463784/image.png?ex=67bdb4b8&is=67bc6338&hm=b0f0586572338ef03938d1e20b2ca64e90bb133f21ef84f58d490afbccb4888d&",
+            "percent":100,
+            "hz": 240
         }
     ]
 }
