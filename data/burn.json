@@ -6,5 +6,12 @@
     "verifier": "leaf",
     "verification": "https://youtu.be/DsX7yjYryqQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+                {
+                "user": "Exsavitator",
+                "link": "https://cdn.discordapp.com/attachments/1301428139909709894/1343191155726221344/image.png?ex=67bdb13e&is=67bc5fbe&hm=52ea1a620f8e4ba6d7918acf88a727e5726f476c9ace0043f4ad9ea723f64953&",
+                "percent": 100,
+                "hz": 240
+                }
+    ]
 }
