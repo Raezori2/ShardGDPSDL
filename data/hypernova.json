@@ -47,6 +47,12 @@
             "link": "https://media.discordapp.net/attachments/1272825407246307358/1342647925687320608/Screenshot_2025-02-21_235940.png?ex=67ba65d2&is=67b91452&hm=2e173382b68929afcb54d8a2b4f88a53c9aa3f6b2de396b50aab00ef3a0720df&=&format=webp&quality=lossless&width=1197&height=670",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "HexagonLord",
+            "link": "https://cdn.discordapp.com/attachments/1301428139909709894/1343602672497983591/image.png?ex=67bddf00&is=67bc8d80&hm=8945ccf31cf0e14fc89d479bb024607bd8b933e8042163e678f0f167b2c5bcde&",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
