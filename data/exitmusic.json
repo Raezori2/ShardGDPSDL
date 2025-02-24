@@ -24,6 +24,12 @@
             "link": "https://media.discordapp.net/attachments/1272825407246307358/1342648026942144532/Screenshot_2025-02-05_133910.png?ex=67ba65ea&is=67b9146a&hm=af434862e976bb36fdbf879df4b27df5ee764cb0a12b3674ab298bf6aae68ce4&=&format=webp&quality=lossless&width=876&height=670",
             "percent": 100,
             "hz": 75
+        },
+            {
+            "user": "Kubix",
+            "link": "https://cdn.discordapp.com/attachments/1117097724156850250/1343589967582199848/image.png?ex=67bdd32a&is=67bc81aa&hm=3341fbc13e07c69719dd091a8ec2b0677406c0e66d1bca076b0f383c23aee549&",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
