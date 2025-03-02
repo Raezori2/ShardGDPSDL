@@ -7,11 +7,17 @@
     "verification": "https://youtu.be/DsX7yjYryqQ",
     "percentToQualify": 100,
     "records": [
-                {
+            {
                 "user": "Exsavitator",
                 "link": "https://cdn.discordapp.com/attachments/1301428139909709894/1343191155726221344/image.png?ex=67bdb13e&is=67bc5fbe&hm=52ea1a620f8e4ba6d7918acf88a727e5726f476c9ace0043f4ad9ea723f64953&",
                 "percent": 100,
                 "hz": 240
-                }
+            },
+            {
+            "user": "Zestii",
+            "link": "https://media.discordapp.net/attachments/1336698907576766566/1345809112272732261/image.png?ex=67c5e5e8&is=67c49468&hm=e87e4d033de90c84467b6690b85e2134181569ee287b9689f8a40b24521c1394&=&format=webp&quality=lossless&width=1246&height=701",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
