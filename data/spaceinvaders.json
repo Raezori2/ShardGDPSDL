@@ -6,5 +6,12 @@
     "verifier": "Rae",
     "verification": "https://youtu.be/VxT4jOqiVac?si=8SlZNJHODu15TIk2",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "leaf",
+            "link": "https://youtu.be/VMy0geKJJLY",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
 }
