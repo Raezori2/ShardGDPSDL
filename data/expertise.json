@@ -1,0 +1,17 @@
+{
+    "id": 237,
+    "name": "expertise",
+    "author": "Kubix",
+    "creators": [],
+    "verifier": "Kubix",
+    "verification": "https://youtu.be/x0dk3z7kFTI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/onpLX42g8Kg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
