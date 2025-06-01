@@ -1,0 +1,17 @@
+{
+    "id": 256,
+    "name": "lvl",
+    "author": "Exsavitator",
+    "creators": [],
+    "verifier": "Exsavitator",
+    "verification": "https://youtu.be/bnLRDzN3468",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/ZBNpTrisLbU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
