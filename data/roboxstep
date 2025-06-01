@@ -1,0 +1,17 @@
+{
+    "id": 291,
+    "name": "roboXstep",
+    "author": "RedAmitie",
+    "creators": [],
+    "verifier": "Exsavitator",
+    "verification": "https://youtu.be/2FFUGREVZuY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/p3LTlsxd25c",
+            "percent": 360,
+            "hz": 100
+        }
+    ]
+}
