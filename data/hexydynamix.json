@@ -1,0 +1,17 @@
+{
+    "id": 322,
+    "name": "HEXYDYNAMIX",
+    "author": "HexagonLord",
+    "creators": [],
+    "verifier": "HexagonLord",
+    "verification": "https://youtu.be/3QgbtIounwg",
+    "percentToQualify": 70,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/zrg8oCB505Q",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
