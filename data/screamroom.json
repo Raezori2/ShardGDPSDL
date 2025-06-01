@@ -1,0 +1,17 @@
+{
+    "id": 316,
+    "name": "screamroom",
+    "author": "RedAmitieGD",
+    "creators": [],
+    "verifier": "RedAmitieGD",
+    "verification": "https://youtu.be/saXtIv85VwY?si=dymZy8OFwGTZXjQ3",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "https://youtu.be/FDakRnJ8_aI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
